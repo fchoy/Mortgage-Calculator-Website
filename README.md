@@ -7,3 +7,4 @@ For each entry, a log of what was calculated will also be generated and saved. U
 
 All log entries can be cleared at once or can be individually deleted by entering the same principal, interest rate, and monthly payment as the log entry that they want to clear into the three text fields and then selecting "clear an entry". 
 
+Devloped by Felix Choy using HTML, CSS, Javascript, JSP, and Java. 
